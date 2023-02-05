@@ -1,0 +1,12 @@
+.button {
+  background-color: #f8fafc;
+  color: #303150;
+  font-family: 'Roboto';
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 32px;
+  padding-right: 32px;
+  border: none;
+  border-radius: 10px;
+  font-size: 14px;
+}
